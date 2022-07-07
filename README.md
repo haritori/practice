@@ -1,3 +1,3 @@
 # practice
 
-CSS go so much better!
+html & Css is so much fun!
